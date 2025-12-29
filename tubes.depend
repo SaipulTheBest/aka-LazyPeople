@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1766514969 source:c:\users\user\documents\struktur data\aka\tubes\main.cpp
+	<iostream>
+	<chrono>
+	<iomanip>
+	<fstream>
+	<string>
+	<new>
+
