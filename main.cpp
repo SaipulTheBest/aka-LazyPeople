@@ -15,7 +15,7 @@ int total_sum_recursive(int scores[], int n, int i) {
 
 int total_sum_iterative(int scores[], int n) {
     int total = 0;
-    for (int i = 0; i < n; i++) total += scores[i];
+    for (int i = 0; i < n; i++) total = total + scores[i];
     return total;
 }
 
@@ -156,3 +156,4 @@ int main() {
 
     return 0;
 }
+
